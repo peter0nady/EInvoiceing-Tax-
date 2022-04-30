@@ -1,0 +1,27 @@
+c:\users\tiqaniat\documents\visual studio 2015\Projects\API_Test\API_Test\bin\Debug\API_Test.exe.config
+c:\users\tiqaniat\documents\visual studio 2015\Projects\API_Test\API_Test\obj\Debug\API_Test.csprojResolveAssemblyReference.cache
+c:\users\tiqaniat\documents\visual studio 2015\Projects\API_Test\API_Test\obj\Debug\API_Test.Form1.resources
+c:\users\tiqaniat\documents\visual studio 2015\Projects\API_Test\API_Test\obj\Debug\API_Test.Properties.Resources.resources
+c:\users\tiqaniat\documents\visual studio 2015\Projects\API_Test\API_Test\obj\Debug\API_Test.csproj.GenerateResource.Cache
+c:\users\tiqaniat\documents\visual studio 2015\Projects\API_Test\API_Test\bin\Debug\API_Test.exe
+c:\users\tiqaniat\documents\visual studio 2015\Projects\API_Test\API_Test\bin\Debug\API_Test.pdb
+c:\users\tiqaniat\documents\visual studio 2015\Projects\API_Test\API_Test\bin\Debug\RestSharp.dll
+c:\users\tiqaniat\documents\visual studio 2015\Projects\API_Test\API_Test\bin\Debug\RestSharp.xml
+c:\users\tiqaniat\documents\visual studio 2015\Projects\API_Test\API_Test\obj\Debug\API_Test.exe
+c:\users\tiqaniat\documents\visual studio 2015\Projects\API_Test\API_Test\obj\Debug\API_Test.pdb
+C:\Users\tiqaniat\documents\visual studio 2015\Projects\API_Test\API_Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tiqaniat\documents\visual studio 2015\Projects\API_Test\API_Test\bin\Debug\Newtonsoft.Json.xml
+D:\work\work\C#\API_Test\API_Test\bin\Debug\API_Test.exe.config
+D:\work\work\C#\API_Test\API_Test\obj\Debug\API_Test.exe
+D:\work\work\C#\API_Test\API_Test\obj\Debug\API_Test.pdb
+D:\work\work\C#\API_Test\API_Test\bin\Debug\API_Test.exe
+D:\work\work\C#\API_Test\API_Test\bin\Debug\API_Test.pdb
+D:\work\work\C#\API_Test\API_Test\bin\Debug\Newtonsoft.Json.dll
+D:\work\work\C#\API_Test\API_Test\bin\Debug\RestSharp.dll
+D:\work\work\C#\API_Test\API_Test\bin\Debug\Newtonsoft.Json.xml
+D:\work\work\C#\API_Test\API_Test\bin\Debug\RestSharp.xml
+D:\work\work\C#\API_Test\API_Test\obj\Debug\API_Test.Form1.resources
+D:\work\work\C#\API_Test\API_Test\obj\Debug\API_Test.Properties.Resources.resources
+D:\work\work\C#\API_Test\API_Test\obj\Debug\API_Test.csproj.GenerateResource.Cache
+D:\work\work\C#\API_Test\API_Test\obj\Debug\API_Test.Login.resources
+D:\work\work\C#\API_Test\API_Test\obj\Debug\API_Test.csprojResolveAssemblyReference.cache
